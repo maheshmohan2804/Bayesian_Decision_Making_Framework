@@ -5,6 +5,7 @@ You can find the report for this project which explains in detail the methodolog
 
 ## References
 PyMC3: https://people.duke.edu/~ccc14/sta-663-2016/16C_PyMC3.html
+
 PyBATS: https://github.com/lavinei/pybats_nbdev/tree/master
 
 
